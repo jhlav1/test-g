@@ -1,0 +1,50 @@
+
+LIA 1
+Loggbok 1
+Praktikant: Jaime Lavalle
+
+Företag: Concreteprint
+https://concreteprint.se/
+Kontaktperson: Tobias v. Haslingen
+Start: 26 mars 2025
+
+Onsdag 26 mars: 
+•	Tobias gick igenom hur vi ska bygga en slicer för 3MF- och STL-filer.
+•	Tobias körde en exemple om hur man använde både Grock och ChatGPT som verktyg.
+•	Det viktiga var att vi ska använda Cursor och Julia som programmeringsspråk.
+•	Målet är att slicern ska vara redo i maj så vi kan skriva ut något med betongskrivaren.
+•	Vi ska ha kommunikation via telefon, sms eller Teams vid behov med korta möte varannan dag där Tobias ska ge dagens uppgifter samt förslag och handledning, jag ska informera vad har jag gjort, vad jag ska göra samt eventuella hinder.  
+•	Vi ska använda en repo på Github  där jag ska ladda upp olika script och annat.
+
+ Torsdag 27 mars:
+•	Hämtade en 3D Skrivare från Xenter som jag ska manvända för att testa slice och utskrifter.
+
+
+Fredag 28 mars:
+•	Testades 3D skrivare och sedan förbereddes utvecklingsmiljön. Jag installerade Visual Studio Code, och Cursor ai 
+
+Måndag 31 mars:
+•	Kort möte med Tobias via telefon.
+•	 Självstudie med G Code  olika Commands, VS Code, Chatgtp och Cursor ai. Jag använde information och tutorials från internet som studiematerial.
+
+Tisdag 01 April
+•	Fortsatte med självstudie med G Code  olika Commands, Chatgtp , VS Code, och Cursor ai. 
+•	Skapade en repo på Github  
+•	laddade up en gcode fil genererade av Cursor ai med en slice av en kub.
+
+Onsdag 02 april
+•	Kort möte med Tobias via telefon.
+•	Installerade Julia programming languaje som tillägg för VS Code.
+•	Självstudie av Julia programming.
+
+Torsdag 03 april
+•	Självstudie av Julia programming, 
+•	Jag laddade upp till repon ett Julia script av en matematisk uppgift utvecklat med hjälp av Chatgtp.
+
+Fredag 04 april
+•	Kort möte med Tobias via telefon.
+•	Fortsatte med Julia och g code.
+•	Undersöka best practice med Julia
+•	Stl filer 
+•	Slice och beräkning på olika geometri
+•	Undersöka Trello som arbetshanteringsverktyg i vårt samarbete.
