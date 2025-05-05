@@ -1,0 +1,40 @@
+
+
+LIA 1
+Loggbok 3
+Praktikant: Jaime Lavalle
+Företag: Concreteprint
+https://concreteprint.se/
+Kontaktperson: Tobias v. Haslingen
+Start: 26 mars 2025
+Vecka 17
+ Måndag 21 april:
+•	-
+Tisdag 22 April
+•	 Kort möte med Tobias via telefon
+•	 Analys av ojämna betongutskrifter, orsak och möjliga lösningar
+•	Visualiseringsverktyg ThreeJS och MeshCat.jl
+
+Onsdag 23 april
+•	Visualiserings verktyg ThreeJS och MeshJulia
+•	3Dlibrary Python – Julia
+•	Parammetrisk design - nested_sinusoidal_xy
+Torsdag 24 april
+•	Kort möte med Tobias via telefon
+•	Sinusoidal texturer gcode visualisering med Cura 
+Fredag 25 april
+•	Kort möte med Tobias via telefon.
+•	 programmatisk parametrisk design - nested_sinusoidal_xy
+
+Vecka 18
+Måndag 28 april:
+•	Kort möte med Tobias via telefon.
+•	Programmatisk parametrisk design . nested_sinusoidal_xy
+•	design 3MF format
+
+
+Tisdag 29 April
+•	programmatisk parametrisk design 3MF format
+Onsdag 30 april
+•	Kort möte med Tobias via telefon.
+•	Programmatisk parametrisk design 3Mf format
