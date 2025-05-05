@@ -1,0 +1,60 @@
+
+LIA 1
+Loggbok 2
+Praktikant: Jaime Lavalle
+Företag: Concreteprint
+https://concreteprint.se/
+Kontaktperson: Tobias v. Haslingen
+Start: 26 mars 2025
+Måndag 07 april:
+• Kort möte med Tobias 
+• Analyserade olika geometriska och volymetriska objekt som kan skapas med hjälp av AI.
+• Skapades en funktion i Julia som genererar en kub utifrån av en önskad dimension på 
+sidan. 
+• Skapade med hjälp av AI en funktion i Julia som genererar en sfär utifrån av en önskad 
+dimension på diametern.
+Tisdag 08 April
+• Testades funktionerna
+• Testades och printades en sfär
+• G-code filen med sfären laddades upp till repon.
+Onsdag 09 april
+• Personligt möte med Tobias 
+• Par programmering med Tobias.
+• Utvecklade program i Julia som analyserar STL filer 
+• Tobias delade med mig STL filer med strukturer i betong
+Torsdag 10 april
+• Analyserade STL filerna med hjälp av Julia program
+• Stl filerna av strukturer i betong analyserades med hjälp av Cura och Bambu
+• 2 strukturer skalades ner och printades.
+Fredag 11 april
+• Kort möte med Tobias via telefon.
+• Analyserade G code och path som bildas, start punkter och slutpunkter för trianglar som 
+bildas.
+• Extrusion per steg och andra parameter som påverkar.
+• 1 bild på Chair-struktur delade med Tobias via e post.
+Måndag 14 april:
+• Kort möte med Tobias via telefon.
+• Analys av trianglar och max- avstånd mellan punkter och öka antal punkter i segmenter.
+• Tobias delade med mig bilder av ojämnheter av utskrifter i betong.
+• Analyserade bilder och möjliga förslag om hur kan man lösa problemet med hjälp av Gcode parameter.
+Tisdag 15 April
+• Fortsatte med analysen av bilder och möjliga förslag.
+• Skapades ett program i Julia som genererar en G-kodfil som skriver ut 3 kuber växelvis 
+och successivt, vart tredje lager hoppar till nästa. Målet var att återskapa en tryckmiljö 
+där tryckmaterial måste härda under en tid innan ytterligare lager läggs till så att 
+strukturer håller och inte kollapsar. Genom att skriva ut flera objekt växelvis flyter 
+tryckmaterialet kontinuerligt och förhindrar också att materialet härdar i munstyckena. 
+Annars bör utskriften pausas med G-kod start- och stoppkommandon.
+• Testade multicub- g code filen på 3D skrivaren.
+• Efter flera test lyckades med 3D utskriften.
+• Testen filmades.
+• Laddade up multicub filen till repon på Github, Delades filmen med Tobias via 
+Whatsapp.
+Onsdag 16 april
+• Kort möte med Tobias via telefon.
+• Optimerade och testade multikub programet.
+• Självstudie och test med Gcode kommandon.
+• Fortsatte med analysen av bilder och möjliga förslag.
+Torsdag 17 april
+• Testar multiprintting och hur olika gcode parameter påverkar utskrifter.
+• Analyserade Gcode-kommandot för att lösa potentiella problem med betong-utskrifter
