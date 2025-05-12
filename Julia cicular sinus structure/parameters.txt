@@ -1,0 +1,7 @@
+amplitude=5.0
+frequency=6.0
+layer_height=1.0
+num_layers=100
+radius=50.0
+extrusion_factor=0.5
+filename=circular_sinusoidal_wall_78.gcode  
