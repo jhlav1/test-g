@@ -1,0 +1,8 @@
+amplitude=5.0
+frequency=5.0
+layer_height=0.2
+num_layers=180
+radius=50.0
+extrusion_factor=0.1
+rotation_per_layer=2.0
+filename=rotated_sinusoidal_wall_centered_66.gcode
