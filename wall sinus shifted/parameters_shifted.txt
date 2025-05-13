@@ -1,9 +1,0 @@
-amplitude=1.0 
-frequency=0.5 
-layer_height=0.3 
-num_layers=20 
-wall_length=100.0 
-line_spacing=1.0 
-shift_interval=3 
-extrusion_factor=0.05 
-filename=shifted_sinus_wall_79.gcode
