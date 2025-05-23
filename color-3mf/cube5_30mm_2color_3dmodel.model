@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<model xmlns="http://schemas.microsoft.com/3dmanufacturing/core/2015/02" unit="millimeter" xml:lang="en-US" xmlns:m="http://schemas.microsoft.com/3dmanufacturing/material/2015/02" xmlns:p="http://schemas.microsoft.com/3dmanufacturing/production/2015/06" xmlns:b="http://schemas.microsoft.com/3dmanufacturing/beamlattice/2017/02" xmlns:s="http://schemas.microsoft.com/3dmanufacturing/slice/2015/07" xmlns:sc="http://schemas.microsoft.com/3dmanufacturing/securecontent/2019/04">
+	<metadata name="Title" type="QName" preserve="1">cube_30mm_layer_colored</metadata>
+	<resources>
+		<m:colorgroup id="2">
+			<m:color color="#A0A0A0FF"/><!-- Grå -->
+			<m:color color="#FF4444"/><!-- Röd -->
+		</m:colorgroup>
+		<object id="1" name="BottomHalf" type="model" p:UUID="c3a77ec0-5967-4ac7-9732-b7a4261f8d87" pid="2" pindex="0">
+			<mesh>
+				<vertices>
+					<vertex x="30.000000" y="30.000000" z="0" />
+					<vertex x="0" y="30.000000" z="0" />
+					<vertex x="0" y="30.000000" z="15.000000" />
+					<vertex x="30.000000" y="30.000000" z="15.000000" />
+					<vertex x="30.000000" y="0" z="0" />
+					<vertex x="30.000000" y="0" z="15.000000" />
+					<vertex x="0" y="0" z="0" />
+					<vertex x="0" y="0" z="15.000000" />
+				</vertices>
+				<triangles>
+					<triangle v1="0" v2="1" v3="3" />
+					<triangle v1="3" v2="1" v3="2" />
+					<triangle v1="4" v2="0" v3="5" />
+					<triangle v1="5" v2="0" v3="3" />
+					<triangle v1="6" v2="4" v3="7" />
+					<triangle v1="7" v2="4" v3="5" />
+					<triangle v1="1" v2="6" v3="2" />
+					<triangle v1="2" v2="6" v3="7" />
+					<triangle v1="7" v2="5" v3="2" />
+					<triangle v1="2" v2="5" v3="3" />
+					<triangle v1="1" v2="0" v3="6" />
+					<triangle v1="6" v2="0" v3="4" />
+				</triangles>
+			</mesh>
+		</object>
+		<object id="2" name="TopHalf" type="model" p:UUID="d4b88fd1-6a58-4d8e-b3c9-8c7e4f5b6789" pid="2" pindex="1">
+			<mesh>
+				<vertices>
+					<vertex x="30.000000" y="30.000000" z="15.000000" />
+					<vertex x="0" y="30.000000" z="15.000000" />
+					<vertex x="0" y="30.000000" z="30.000000" />
+					<vertex x="30.000000" y="30.000000" z="30.000000" />
+					<vertex x="30.000000" y="0" z="15.000000" />
+					<vertex x="30.000000" y="0" z="30.000000" />
+					<vertex x="0" y="0" z="15.000000" />
+					<vertex x="0" y="0" z="30.000000" />
+				</vertices>
+				<triangles>
+					<triangle v1="0" v2="1" v3="3" />
+					<triangle v1="3" v2="1" v3="2" />
+					<triangle v1="4" v2="0" v3="5" />
+					<triangle v1="5" v2="0" v3="3" />
+					<triangle v1="6" v2="4" v3="7" />
+					<triangle v1="7" v2="4" v3="5" />
+					<triangle v1="1" v2="6" v3="2" />
+					<triangle v1="2" v2="6" v3="7" />
+					<triangle v1="7" v2="5" v3="2" />
+					<triangle v1="2" v2="5" v3="3" />
+					<triangle v1="1" v2="0" v3="6" />
+					<triangle v1="6" v2="0" v3="4" />
+				</triangles>
+			</mesh>
+		</object>
+	</resources>
+	<build p:UUID="26db3e00-90ed-4c37-a856-79fc9477620c">
+		<item objectid="1" p:UUID="6f125314-10b4-4fac-a9b8-89b5cfd2c233"/>
+		<item objectid="2" p:UUID="7g136425-21c5-5gbc-b0c9-90c6dg6c7890"/>
+	</build>
+</model>
